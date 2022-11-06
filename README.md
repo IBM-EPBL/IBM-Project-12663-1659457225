@@ -1,10 +1,10 @@
-# IBM-Project-12663-1659457225
-Real-Time Communication System Powered by AI for Specially Abled
-Team ID:PNT2022TMID45687
-Team Leader:
-           Kanaga.O
-Team member:
-           Janapriya.N
-           Gayathri.V
-           Shalini.S
+# IBM-PROJECT-12663-1659457225
+REAL-TIME COMMUNICATION SYSTEM POWERED BY AI FOR SPECIALLY ABLED
+TEAM ID:PNT2022TMID45687
+TEAM LEADER:
+           KANAGA.O
+TEAM MEMBER:
+           JANAPRIYA.N
+           GAYATHRI.V
+           SHALINI.S
            
